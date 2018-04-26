@@ -37,8 +37,8 @@
     "babel-preset-es2016-node5": "^1.1.2",
     "babel-preset-react": "^6.24.1",
     "electron": "2.0.0-beta.5",
-    "electron-compile": "*",
-    "electron-compilers": "*",
+    "electron-compile": "Seiyial/electron-compile-patch-babel-7",
+    "electron-compilers": "Seiyial/electron-compilers-patch-babel-7",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
